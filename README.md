@@ -37,7 +37,7 @@ Upload any PDF and start chatting. From legal contracts to academic papers, RAGe
 - ⚖️ Legal Review: Extract clauses, obligations, and legal interpretations from contracts.
 - 🏢 Enterprise Docs: Query internal documentation without manual search.
 
-🧠 Architecture Overview
+🧠 Architecture Overview:
     A[User Uploads PDF] --> B[PDF Preprocessing]
     B --> C[Vector Store Creation (FAISS)]
     C --> D[LangChain RAG Pipeline]
